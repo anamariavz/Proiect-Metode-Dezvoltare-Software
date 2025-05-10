@@ -1,0 +1,207 @@
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Login.exe
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Login.deps.json
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Login.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Login.pdb
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.Form1.resources
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfoInputs.cache
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfo.cs
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\refint\Login.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.pdb
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\ref\Login.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.csproj.AssemblyReference.cache
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.csproj.Up2Date
+D:\Facultate-Ana\MDS\Proiect\Login\Login\obj\Debug\net8.0-windows\Login.Form_Login.resources
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\System.IO.Ports.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.forms.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.io.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.layout.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.sign.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.svg.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itext.commons.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\itextsharp.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Facultate-Ana\MDS\Proiect\Login\Login\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Login.exe
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Login.deps.json
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Login.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Login.pdb
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.barcodes.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.forms.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.io.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.kernel.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.layout.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.pdfa.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.pdfua.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.sign.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.svg.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itext.commons.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\itextsharp.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\System.IO.Ports.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.csproj.AssemblyReference.cache
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.Form1.resources
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfoInputs.cache
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfo.cs
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.csproj.Up2Date
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\refint\Login.dll
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.pdb
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+D:\Facultate-Ana\MDS\Proiect - V2\Login\Login\obj\Debug\net8.0-windows\ref\Login.dll
