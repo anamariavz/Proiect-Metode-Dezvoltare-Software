@@ -8028,11 +8028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Login.csproj",
+      "projectUniqueName": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Login.csproj",
       "projectName": "Login",
-      "projectPath": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Login.csproj",
+      "projectPath": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Login.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\obj\\",
+      "outputPath": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

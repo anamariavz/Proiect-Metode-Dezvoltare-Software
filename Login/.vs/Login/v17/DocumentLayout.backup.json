@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\",
+  "WorkspaceRootPath": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|d:\\facultate-ana\\mds\\proiectv2 - copy\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|d:\\facultate-ana\\mds\\proiectv2\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|d:\\facultate-ana\\mds\\proiectv2 - copy\\login\\login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|d:\\facultate-ana\\mds\\proiectv2\\login\\login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|solutionrelative:login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|d:\\facultate-ana\\mds\\proiectv2 - copy\\login\\login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|d:\\facultate-ana\\mds\\proiectv2\\login\\login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|solutionrelative:login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|d:\\facultate-ana\\mds\\proiectv2 - copy\\login\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|d:\\facultate-ana\\mds\\proiectv2\\login\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264BF568-D2A0-43E0-952D-EDE8DD707651}|Login\\Login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Form1.cs",
+              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Form1.cs",
               "RelativeDocumentMoniker": "Login\\Form1.cs",
-              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Form1.cs [Design]",
+              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Form1.cs [Design]",
               "RelativeToolTip": "Login\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T06:54:26.571Z",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.csproj",
-              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Login.csproj",
+              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Login.csproj",
               "RelativeDocumentMoniker": "Login\\Login.csproj",
-              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Login.csproj",
+              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Login.csproj",
               "RelativeToolTip": "Login\\Login.csproj",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Program.cs",
+              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Program.cs",
               "RelativeDocumentMoniker": "Login\\Program.cs",
-              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Program.cs",
+              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Program.cs",
               "RelativeToolTip": "Login\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Login\\Form1.Designer.cs",
-              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Form1.Designer.cs",
+              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Form1.Designer.cs",
               "RelativeToolTip": "Login\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Form1.cs",
+              "DocumentMoniker": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Form1.cs",
               "RelativeDocumentMoniker": "Login\\Form1.cs",
-              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2 - Copy\\Login\\Login\\Form1.cs",
+              "ToolTip": "D:\\Facultate-Ana\\MDS\\ProiectV2\\Login\\Login\\Form1.cs",
               "RelativeToolTip": "Login\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
